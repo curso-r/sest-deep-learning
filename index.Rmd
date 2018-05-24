@@ -1,5 +1,5 @@
 ---
-title: "Keras: Deep Learning com R"
+title: "Deep Learning e R"
 subtitle: "SEST - 2018"
 author: "Daniel Falbel (@Curso-R) <br> dfalbel@curso-r.com"
 date: "22/05/2018"
@@ -381,7 +381,7 @@ dfalbel@curso-r.com
 
 github.com/dfalbel
 
-rday-keras.curso-r.com
+sest.curso-r.com
 
 
 
