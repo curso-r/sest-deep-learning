@@ -2,7 +2,7 @@
 title: "Deep Learning e R"
 subtitle: "SEST - 2018"
 author: "Daniel Falbel (@Curso-R) <br> dfalbel@curso-r.com"
-date: "22/05/2018"
+date: "24/05/2018"
 output:
   xaringan::moon_reader:
     lib_dir: libs
